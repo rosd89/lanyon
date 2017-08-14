@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: SamSam
 subtitle:
 description:
-author: John Doe
-language:
-timezone:
+author: sam
+language: ko
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://rosd89.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -53,7 +53,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: 미분류
 category_map:
 tag_map:
 
